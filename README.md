@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Nafay!
 
 ## 💡 About Me
 Aspiring Data Analyst with experience in Python, SQL, and Excel. Passionate about turning raw data into meaningful insights. Currently learning more about databases.
@@ -13,7 +13,10 @@ Aspiring Data Analyst with experience in Python, SQL, and Excel. Passionate abou
 ## 📌 Projects
 Here are some projects showcasing my skills:
 
-- **[Project Name 1](GitHub Repository Link)** - (Python, pandas, matplotlib) - Brief description
+- **Stock Managet (GitHub Repository Link)** - (Python, pandas, psycopg2, PSQL)
+-
+-
+- ) - Stock manager with inventory, transactions recorder and auto balance adjustment and many other features
 - **[Project Name 2](GitHub Repository Link)** - (SQL, PostgreSQL) - Brief description
 - **[Project Name 3](GitHub Repository Link)** - (Excel, Data Visualization) - Brief description
 
