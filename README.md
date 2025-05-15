@@ -13,7 +13,7 @@ Aspiring Data Analyst with experience in Python, SQL, and Excel. Passionate abou
 ## 📌 Projects
 Here are some projects showcasing my skills:
 
-- **Stock Managet (GitHub Repository Link)** - (Python, pandas, psycopg2, PSQL)
+- **Stock Managet ((https://github.com/Syed-Muhammad-Nafay/Stock-Management-with-PSQL-and-Python.git))** - (Python, pandas, psycopg2, PSQL)
 -
 -
 - ) - Stock manager with inventory, transactions recorder and auto balance adjustment and many other features
